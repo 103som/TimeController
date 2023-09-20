@@ -2,14 +2,14 @@
 
 client::client(QObject *parent) : QObject(parent) {
     socket = new QTcpSocket(this);
-    connect(socket, SIGNAL(connected()), this, SLOT(connected()));
-    connect(socket, SIGNAL(disconnected()), this, SLOT(disconnected()));
-    connect(socket, SIGNAL(readyRead()), this, SLOT(readyRead()));
+    connect(socket, &QTcpSocket::connected, this, &client::connected);
+    connect(socket, &QTcpSocket::disconnected, this, &client::disconnected);
+    connect(socket, &QTcpSocket::readyRead, this, &client::readyRead);
 
+    qDebug() << ("CLIENT CONNECTED!!!");
     // Устанавливаем соединение с сервером.
     socket->connectToHost("localhost", PORT);
 }
-
 
 void client::connected() {
     qDebug() << "Соединение установлено";
@@ -25,11 +25,11 @@ void client::readyRead() {
     qDebug() << "Received response:" << response;
 }
 
-void client::sendRequest(const QString& request) {
+void client::sendRequest(const QJsonObject& request) {
     // Проверка, установлено ли соединение с сервером
     if (socket->state() == QAbstractSocket::ConnectedState) {
-        // Отправка запроса на сервер
-        QByteArray requestData = request.toUtf8();
+        QByteArray requestData = (QJsonDocument(request)).toJson();
+        qDebug() << "ОТПРАВИЛ НА СЕРВЕР:" << requestData.constData() << "\n";
         socket->write(requestData);
         socket->flush();
     }

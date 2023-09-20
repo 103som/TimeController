@@ -191,7 +191,7 @@ build TimeController_autogen/timestamp TimeController_autogen/mocs_compilation.c
 #############################################
 # Phony custom command for CMakeFiles\TimeController_autogen_timestamp_deps
 
-build CMakeFiles/TimeController_autogen_timestamp_deps | ${cmake_ninja_workdir}CMakeFiles/TimeController_autogen_timestamp_deps: phony D$:/Qt/6.3.1/mingw_64/lib/libQt6Network.a D$:/Qt/6.3.1/mingw_64/lib/libQt6Core.a D$:/Qt/6.3.1/mingw_64/./bin/moc.exe D$:/Qt/6.3.1/mingw_64/lib/libQt6Sql.a
+build CMakeFiles/TimeController_autogen_timestamp_deps | ${cmake_ninja_workdir}CMakeFiles/TimeController_autogen_timestamp_deps: phony D$:/Qt/6.3.1/mingw_64/lib/libQt6Network.a D$:/Qt/6.3.1/mingw_64/./bin/moc.exe D$:/Qt/6.3.1/mingw_64/lib/libQt6Core.a D$:/Qt/6.3.1/mingw_64/lib/libQt6Sql.a
 
 
 #############################################

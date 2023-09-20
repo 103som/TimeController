@@ -1,11 +1,12 @@
 #ifndef WINDOWSSYSTEMPROGRAM_H
 #define WINDOWSSYSTEMPROGRAM_H
 
-class WindowsSystemProgram
-{
-public:
+#include "operatingsystemprogram.h"
 
-    WindowsSystemProgram();
+class WindowsSystemProgram : public operatingsystemprogram{
+public:
+    WindowsSystemProgram(int pid, QString path, QString info);
+    bool operator==(const WindowsSystemProgram& other) const;
 };
 
 #endif // WINDOWSSYSTEMPROGRAM_H

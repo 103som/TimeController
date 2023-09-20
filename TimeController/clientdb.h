@@ -9,6 +9,9 @@
 #include <QDateTime>
 #include <QVector>
 #include <QSqlRecord>
+#include <QJsonDocument>
+#include <QJsonObject>
+#include <QByteArray>
 
 class clientDB {
 public:

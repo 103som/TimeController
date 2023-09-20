@@ -33,11 +33,11 @@
         "-I",
         "D:\\Qt\\Tools\\QtCreator\\share\\qtcreator\\cplusplus\\wrappedQtHeaders\\QtCore",
         "-I",
-        "C:\\Users\\103so\\Documents\\build-Client-Desktop_Qt_6_3_1_MinGW_64_bit-Debug",
+        "C:\\Users\\103so\\Desktop\\Time Comtrollerr\\build-Client-Desktop_Qt_6_3_1_MinGW_64_bit-Debug",
         "-I",
-        "C:\\Users\\103so\\Documents\\Client",
+        "C:\\Users\\103so\\Desktop\\Time Comtrollerr\\Client",
         "-I",
-        "C:\\Users\\103so\\Documents\\build-Client-Desktop_Qt_6_3_1_MinGW_64_bit-Debug\\Client_autogen\\include",
+        "C:\\Users\\103so\\Desktop\\Time Comtrollerr\\build-Client-Desktop_Qt_6_3_1_MinGW_64_bit-Debug\\Client_autogen\\include",
         "-I",
         "D:\\Qt\\6.3.1\\mingw_64\\include\\QtCore",
         "-I",
@@ -67,10 +67,10 @@
         "-ferror-limit=1000",
         "-x",
         "c++",
-        "C:\\Users\\103so\\Documents\\Client\\main.cpp"
+        "C:\\Users\\103so\\Desktop\\Time Comtrollerr\\Client\\main.cpp"
     ],
-    "directory": "C:/Users/103so/Documents/build-Client-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qtc_clangd",
-    "file": "C:/Users/103so/Documents/Client/main.cpp"
+    "directory": "C:/Users/103so/Desktop/Time Comtrollerr/build-Client-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qtc_clangd",
+    "file": "C:/Users/103so/Desktop/Time Comtrollerr/Client/main.cpp"
 },
 {
     "arguments": [
@@ -106,11 +106,11 @@
         "-I",
         "D:\\Qt\\Tools\\QtCreator\\share\\qtcreator\\cplusplus\\wrappedQtHeaders\\QtCore",
         "-I",
-        "C:\\Users\\103so\\Documents\\build-Client-Desktop_Qt_6_3_1_MinGW_64_bit-Debug",
+        "C:\\Users\\103so\\Desktop\\Time Comtrollerr\\build-Client-Desktop_Qt_6_3_1_MinGW_64_bit-Debug",
         "-I",
-        "C:\\Users\\103so\\Documents\\Client",
+        "C:\\Users\\103so\\Desktop\\Time Comtrollerr\\Client",
         "-I",
-        "C:\\Users\\103so\\Documents\\build-Client-Desktop_Qt_6_3_1_MinGW_64_bit-Debug\\Client_autogen\\include",
+        "C:\\Users\\103so\\Desktop\\Time Comtrollerr\\build-Client-Desktop_Qt_6_3_1_MinGW_64_bit-Debug\\Client_autogen\\include",
         "-I",
         "D:\\Qt\\6.3.1\\mingw_64\\include\\QtCore",
         "-I",
@@ -140,10 +140,10 @@
         "-ferror-limit=1000",
         "-x",
         "c++",
-        "C:\\Users\\103so\\Documents\\Client\\mainwindow.cpp"
+        "C:\\Users\\103so\\Desktop\\Time Comtrollerr\\Client\\mainwindow.cpp"
     ],
-    "directory": "C:/Users/103so/Documents/build-Client-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qtc_clangd",
-    "file": "C:/Users/103so/Documents/Client/mainwindow.cpp"
+    "directory": "C:/Users/103so/Desktop/Time Comtrollerr/build-Client-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qtc_clangd",
+    "file": "C:/Users/103so/Desktop/Time Comtrollerr/Client/mainwindow.cpp"
 },
 {
     "arguments": [
@@ -179,11 +179,11 @@
         "-I",
         "D:\\Qt\\Tools\\QtCreator\\share\\qtcreator\\cplusplus\\wrappedQtHeaders\\QtCore",
         "-I",
-        "C:\\Users\\103so\\Documents\\build-Client-Desktop_Qt_6_3_1_MinGW_64_bit-Debug",
+        "C:\\Users\\103so\\Desktop\\Time Comtrollerr\\build-Client-Desktop_Qt_6_3_1_MinGW_64_bit-Debug",
         "-I",
-        "C:\\Users\\103so\\Documents\\Client",
+        "C:\\Users\\103so\\Desktop\\Time Comtrollerr\\Client",
         "-I",
-        "C:\\Users\\103so\\Documents\\build-Client-Desktop_Qt_6_3_1_MinGW_64_bit-Debug\\Client_autogen\\include",
+        "C:\\Users\\103so\\Desktop\\Time Comtrollerr\\build-Client-Desktop_Qt_6_3_1_MinGW_64_bit-Debug\\Client_autogen\\include",
         "-I",
         "D:\\Qt\\6.3.1\\mingw_64\\include\\QtCore",
         "-I",
@@ -213,10 +213,10 @@
         "-ferror-limit=1000",
         "-x",
         "c++",
-        "C:\\Users\\103so\\Documents\\Client\\client.cpp"
+        "C:\\Users\\103so\\Desktop\\Time Comtrollerr\\Client\\secondwindow.cpp"
     ],
-    "directory": "C:/Users/103so/Documents/build-Client-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qtc_clangd",
-    "file": "C:/Users/103so/Documents/Client/client.cpp"
+    "directory": "C:/Users/103so/Desktop/Time Comtrollerr/build-Client-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qtc_clangd",
+    "file": "C:/Users/103so/Desktop/Time Comtrollerr/Client/secondwindow.cpp"
 },
 {
     "arguments": [
@@ -252,11 +252,11 @@
         "-I",
         "D:\\Qt\\Tools\\QtCreator\\share\\qtcreator\\cplusplus\\wrappedQtHeaders\\QtCore",
         "-I",
-        "C:\\Users\\103so\\Documents\\build-Client-Desktop_Qt_6_3_1_MinGW_64_bit-Debug",
+        "C:\\Users\\103so\\Desktop\\Time Comtrollerr\\build-Client-Desktop_Qt_6_3_1_MinGW_64_bit-Debug",
         "-I",
-        "C:\\Users\\103so\\Documents\\Client",
+        "C:\\Users\\103so\\Desktop\\Time Comtrollerr\\Client",
         "-I",
-        "C:\\Users\\103so\\Documents\\build-Client-Desktop_Qt_6_3_1_MinGW_64_bit-Debug\\Client_autogen\\include",
+        "C:\\Users\\103so\\Desktop\\Time Comtrollerr\\build-Client-Desktop_Qt_6_3_1_MinGW_64_bit-Debug\\Client_autogen\\include",
         "-I",
         "D:\\Qt\\6.3.1\\mingw_64\\include\\QtCore",
         "-I",
@@ -286,10 +286,10 @@
         "-ferror-limit=1000",
         "-x",
         "c++",
-        "C:\\Users\\103so\\Documents\\Client\\operatingsystemfactory.cpp"
+        "C:\\Users\\103so\\Desktop\\Time Comtrollerr\\Client\\client.cpp"
     ],
-    "directory": "C:/Users/103so/Documents/build-Client-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qtc_clangd",
-    "file": "C:/Users/103so/Documents/Client/operatingsystemfactory.cpp"
+    "directory": "C:/Users/103so/Desktop/Time Comtrollerr/build-Client-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qtc_clangd",
+    "file": "C:/Users/103so/Desktop/Time Comtrollerr/Client/client.cpp"
 },
 {
     "arguments": [
@@ -325,11 +325,11 @@
         "-I",
         "D:\\Qt\\Tools\\QtCreator\\share\\qtcreator\\cplusplus\\wrappedQtHeaders\\QtCore",
         "-I",
-        "C:\\Users\\103so\\Documents\\build-Client-Desktop_Qt_6_3_1_MinGW_64_bit-Debug",
+        "C:\\Users\\103so\\Desktop\\Time Comtrollerr\\build-Client-Desktop_Qt_6_3_1_MinGW_64_bit-Debug",
         "-I",
-        "C:\\Users\\103so\\Documents\\Client",
+        "C:\\Users\\103so\\Desktop\\Time Comtrollerr\\Client",
         "-I",
-        "C:\\Users\\103so\\Documents\\build-Client-Desktop_Qt_6_3_1_MinGW_64_bit-Debug\\Client_autogen\\include",
+        "C:\\Users\\103so\\Desktop\\Time Comtrollerr\\build-Client-Desktop_Qt_6_3_1_MinGW_64_bit-Debug\\Client_autogen\\include",
         "-I",
         "D:\\Qt\\6.3.1\\mingw_64\\include\\QtCore",
         "-I",
@@ -359,10 +359,10 @@
         "-ferror-limit=1000",
         "-x",
         "c++",
-        "C:\\Users\\103so\\Documents\\Client\\windowssystem.cpp"
+        "C:\\Users\\103so\\Desktop\\Time Comtrollerr\\Client\\windowssystem.cpp"
     ],
-    "directory": "C:/Users/103so/Documents/build-Client-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qtc_clangd",
-    "file": "C:/Users/103so/Documents/Client/windowssystem.cpp"
+    "directory": "C:/Users/103so/Desktop/Time Comtrollerr/build-Client-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qtc_clangd",
+    "file": "C:/Users/103so/Desktop/Time Comtrollerr/Client/windowssystem.cpp"
 },
 {
     "arguments": [
@@ -398,11 +398,11 @@
         "-I",
         "D:\\Qt\\Tools\\QtCreator\\share\\qtcreator\\cplusplus\\wrappedQtHeaders\\QtCore",
         "-I",
-        "C:\\Users\\103so\\Documents\\build-Client-Desktop_Qt_6_3_1_MinGW_64_bit-Debug",
+        "C:\\Users\\103so\\Desktop\\Time Comtrollerr\\build-Client-Desktop_Qt_6_3_1_MinGW_64_bit-Debug",
         "-I",
-        "C:\\Users\\103so\\Documents\\Client",
+        "C:\\Users\\103so\\Desktop\\Time Comtrollerr\\Client",
         "-I",
-        "C:\\Users\\103so\\Documents\\build-Client-Desktop_Qt_6_3_1_MinGW_64_bit-Debug\\Client_autogen\\include",
+        "C:\\Users\\103so\\Desktop\\Time Comtrollerr\\build-Client-Desktop_Qt_6_3_1_MinGW_64_bit-Debug\\Client_autogen\\include",
         "-I",
         "D:\\Qt\\6.3.1\\mingw_64\\include\\QtCore",
         "-I",
@@ -432,10 +432,10 @@
         "-ferror-limit=1000",
         "-x",
         "c++",
-        "C:\\Users\\103so\\Documents\\Client\\operatingsystemprogram.cpp"
+        "C:\\Users\\103so\\Desktop\\Time Comtrollerr\\Client\\operatingsystemprogram.cpp"
     ],
-    "directory": "C:/Users/103so/Documents/build-Client-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qtc_clangd",
-    "file": "C:/Users/103so/Documents/Client/operatingsystemprogram.cpp"
+    "directory": "C:/Users/103so/Desktop/Time Comtrollerr/build-Client-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qtc_clangd",
+    "file": "C:/Users/103so/Desktop/Time Comtrollerr/Client/operatingsystemprogram.cpp"
 },
 {
     "arguments": [
@@ -471,11 +471,11 @@
         "-I",
         "D:\\Qt\\Tools\\QtCreator\\share\\qtcreator\\cplusplus\\wrappedQtHeaders\\QtCore",
         "-I",
-        "C:\\Users\\103so\\Documents\\build-Client-Desktop_Qt_6_3_1_MinGW_64_bit-Debug",
+        "C:\\Users\\103so\\Desktop\\Time Comtrollerr\\build-Client-Desktop_Qt_6_3_1_MinGW_64_bit-Debug",
         "-I",
-        "C:\\Users\\103so\\Documents\\Client",
+        "C:\\Users\\103so\\Desktop\\Time Comtrollerr\\Client",
         "-I",
-        "C:\\Users\\103so\\Documents\\build-Client-Desktop_Qt_6_3_1_MinGW_64_bit-Debug\\Client_autogen\\include",
+        "C:\\Users\\103so\\Desktop\\Time Comtrollerr\\build-Client-Desktop_Qt_6_3_1_MinGW_64_bit-Debug\\Client_autogen\\include",
         "-I",
         "D:\\Qt\\6.3.1\\mingw_64\\include\\QtCore",
         "-I",
@@ -505,10 +505,10 @@
         "-ferror-limit=1000",
         "-x",
         "c++",
-        "C:\\Users\\103so\\Documents\\Client\\windowssystemprogram.cpp"
+        "C:\\Users\\103so\\Desktop\\Time Comtrollerr\\Client\\windowssystemprogram.cpp"
     ],
-    "directory": "C:/Users/103so/Documents/build-Client-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qtc_clangd",
-    "file": "C:/Users/103so/Documents/Client/windowssystemprogram.cpp"
+    "directory": "C:/Users/103so/Desktop/Time Comtrollerr/build-Client-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qtc_clangd",
+    "file": "C:/Users/103so/Desktop/Time Comtrollerr/Client/windowssystemprogram.cpp"
 },
 {
     "arguments": [
@@ -544,11 +544,11 @@
         "-I",
         "D:\\Qt\\Tools\\QtCreator\\share\\qtcreator\\cplusplus\\wrappedQtHeaders\\QtCore",
         "-I",
-        "C:\\Users\\103so\\Documents\\build-Client-Desktop_Qt_6_3_1_MinGW_64_bit-Debug",
+        "C:\\Users\\103so\\Desktop\\Time Comtrollerr\\build-Client-Desktop_Qt_6_3_1_MinGW_64_bit-Debug",
         "-I",
-        "C:\\Users\\103so\\Documents\\Client",
+        "C:\\Users\\103so\\Desktop\\Time Comtrollerr\\Client",
         "-I",
-        "C:\\Users\\103so\\Documents\\build-Client-Desktop_Qt_6_3_1_MinGW_64_bit-Debug\\Client_autogen\\include",
+        "C:\\Users\\103so\\Desktop\\Time Comtrollerr\\build-Client-Desktop_Qt_6_3_1_MinGW_64_bit-Debug\\Client_autogen\\include",
         "-I",
         "D:\\Qt\\6.3.1\\mingw_64\\include\\QtCore",
         "-I",
@@ -578,10 +578,10 @@
         "-ferror-limit=1000",
         "-x",
         "c++",
-        "C:\\Users\\103so\\Documents\\Client\\activitytime.cpp"
+        "C:\\Users\\103so\\Desktop\\Time Comtrollerr\\Client\\activitytime.cpp"
     ],
-    "directory": "C:/Users/103so/Documents/build-Client-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qtc_clangd",
-    "file": "C:/Users/103so/Documents/Client/activitytime.cpp"
+    "directory": "C:/Users/103so/Desktop/Time Comtrollerr/build-Client-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qtc_clangd",
+    "file": "C:/Users/103so/Desktop/Time Comtrollerr/Client/activitytime.cpp"
 },
 {
     "arguments": [
@@ -617,11 +617,84 @@
         "-I",
         "D:\\Qt\\Tools\\QtCreator\\share\\qtcreator\\cplusplus\\wrappedQtHeaders\\QtCore",
         "-I",
-        "C:\\Users\\103so\\Documents\\build-Client-Desktop_Qt_6_3_1_MinGW_64_bit-Debug",
+        "C:\\Users\\103so\\Desktop\\Time Comtrollerr\\build-Client-Desktop_Qt_6_3_1_MinGW_64_bit-Debug",
         "-I",
-        "C:\\Users\\103so\\Documents\\Client",
+        "C:\\Users\\103so\\Desktop\\Time Comtrollerr\\Client",
         "-I",
-        "C:\\Users\\103so\\Documents\\build-Client-Desktop_Qt_6_3_1_MinGW_64_bit-Debug\\Client_autogen\\include",
+        "C:\\Users\\103so\\Desktop\\Time Comtrollerr\\build-Client-Desktop_Qt_6_3_1_MinGW_64_bit-Debug\\Client_autogen\\include",
+        "-I",
+        "D:\\Qt\\6.3.1\\mingw_64\\include\\QtCore",
+        "-I",
+        "D:\\Qt\\6.3.1\\mingw_64\\include",
+        "-I",
+        "D:\\Qt\\6.3.1\\mingw_64\\mkspecs\\win32-g++",
+        "-I",
+        "D:\\Qt\\6.3.1\\mingw_64\\include\\QtWidgets",
+        "-I",
+        "D:\\Qt\\6.3.1\\mingw_64\\include\\QtGui",
+        "-I",
+        "D:\\Qt\\6.3.1\\mingw_64\\include\\QtNetwork",
+        "-isystem",
+        "D:\\Qt\\Tools\\mingw1120_64\\lib\\gcc\\x86_64-w64-mingw32\\11.2.0\\include\\c++",
+        "-isystem",
+        "D:\\Qt\\Tools\\mingw1120_64\\lib\\gcc\\x86_64-w64-mingw32\\11.2.0\\include\\c++\\x86_64-w64-mingw32",
+        "-isystem",
+        "D:\\Qt\\Tools\\mingw1120_64\\lib\\gcc\\x86_64-w64-mingw32\\11.2.0\\include\\c++\\backward",
+        "-isystem",
+        "D:\\Qt\\Tools\\QtCreator\\bin\\clang\\lib\\clang\\14.0.3\\include",
+        "-isystem",
+        "D:\\Qt\\Tools\\mingw1120_64\\x86_64-w64-mingw32\\include",
+        "-fmessage-length=0",
+        "-fdiagnostics-show-note-include-stack",
+        "-fretain-comments-from-system-headers",
+        "-fmacro-backtrace-limit=0",
+        "-ferror-limit=1000",
+        "-x",
+        "c++",
+        "C:\\Users\\103so\\Desktop\\Time Comtrollerr\\Client\\app.cpp"
+    ],
+    "directory": "C:/Users/103so/Desktop/Time Comtrollerr/build-Client-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qtc_clangd",
+    "file": "C:/Users/103so/Desktop/Time Comtrollerr/Client/app.cpp"
+},
+{
+    "arguments": [
+        "clang",
+        "-Wno-documentation-unknown-command",
+        "-Wno-unknown-warning-option",
+        "-Wno-unknown-pragmas",
+        "-nostdinc",
+        "-nostdinc++",
+        "-DQT_QML_DEBUG",
+        "-g",
+        "-std=gnu++17",
+        "-fsyntax-only",
+        "-m64",
+        "--target=x86_64-w64-mingw32",
+        "-DMINGW_HAS_SECURE_API",
+        "-DQT_CORE_LIB",
+        "-DQT_GUI_LIB",
+        "-DQT_NEEDS_QMAIN",
+        "-DQT_NETWORK_LIB",
+        "-DQT_WIDGETS_LIB",
+        "-DUNICODE",
+        "-DWIN32",
+        "-DWIN64",
+        "-D_ENABLE_EXTENDED_ALIGNED_STORAGE",
+        "-D_UNICODE",
+        "-D_WIN64",
+        "-DQ_CREATOR_RUN",
+        "-I",
+        "D:\\Qt\\Tools\\QtCreator\\share\\qtcreator\\cplusplus\\wrappedMingwHeaders",
+        "-I",
+        "D:\\Qt\\Tools\\QtCreator\\share\\qtcreator\\cplusplus\\wrappedQtHeaders",
+        "-I",
+        "D:\\Qt\\Tools\\QtCreator\\share\\qtcreator\\cplusplus\\wrappedQtHeaders\\QtCore",
+        "-I",
+        "C:\\Users\\103so\\Desktop\\Time Comtrollerr\\build-Client-Desktop_Qt_6_3_1_MinGW_64_bit-Debug",
+        "-I",
+        "C:\\Users\\103so\\Desktop\\Time Comtrollerr\\Client",
+        "-I",
+        "C:\\Users\\103so\\Desktop\\Time Comtrollerr\\build-Client-Desktop_Qt_6_3_1_MinGW_64_bit-Debug\\Client_autogen\\include",
         "-I",
         "D:\\Qt\\6.3.1\\mingw_64\\include\\QtCore",
         "-I",
@@ -651,10 +724,10 @@
         "-ferror-limit=1000",
         "-x",
         "c++-header",
-        "C:\\Users\\103so\\Documents\\Client\\mainwindow.h"
+        "C:\\Users\\103so\\Desktop\\Time Comtrollerr\\Client\\mainwindow.h"
     ],
-    "directory": "C:/Users/103so/Documents/build-Client-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qtc_clangd",
-    "file": "C:/Users/103so/Documents/Client/mainwindow.h"
+    "directory": "C:/Users/103so/Desktop/Time Comtrollerr/build-Client-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qtc_clangd",
+    "file": "C:/Users/103so/Desktop/Time Comtrollerr/Client/mainwindow.h"
 },
 {
     "arguments": [
@@ -690,11 +763,11 @@
         "-I",
         "D:\\Qt\\Tools\\QtCreator\\share\\qtcreator\\cplusplus\\wrappedQtHeaders\\QtCore",
         "-I",
-        "C:\\Users\\103so\\Documents\\build-Client-Desktop_Qt_6_3_1_MinGW_64_bit-Debug",
+        "C:\\Users\\103so\\Desktop\\Time Comtrollerr\\build-Client-Desktop_Qt_6_3_1_MinGW_64_bit-Debug",
         "-I",
-        "C:\\Users\\103so\\Documents\\Client",
+        "C:\\Users\\103so\\Desktop\\Time Comtrollerr\\Client",
         "-I",
-        "C:\\Users\\103so\\Documents\\build-Client-Desktop_Qt_6_3_1_MinGW_64_bit-Debug\\Client_autogen\\include",
+        "C:\\Users\\103so\\Desktop\\Time Comtrollerr\\build-Client-Desktop_Qt_6_3_1_MinGW_64_bit-Debug\\Client_autogen\\include",
         "-I",
         "D:\\Qt\\6.3.1\\mingw_64\\include\\QtCore",
         "-I",
@@ -724,10 +797,10 @@
         "-ferror-limit=1000",
         "-x",
         "c++-header",
-        "C:\\Users\\103so\\Documents\\Client\\client.h"
+        "C:\\Users\\103so\\Desktop\\Time Comtrollerr\\Client\\secondwindow.h"
     ],
-    "directory": "C:/Users/103so/Documents/build-Client-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qtc_clangd",
-    "file": "C:/Users/103so/Documents/Client/client.h"
+    "directory": "C:/Users/103so/Desktop/Time Comtrollerr/build-Client-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qtc_clangd",
+    "file": "C:/Users/103so/Desktop/Time Comtrollerr/Client/secondwindow.h"
 },
 {
     "arguments": [
@@ -763,11 +836,11 @@
         "-I",
         "D:\\Qt\\Tools\\QtCreator\\share\\qtcreator\\cplusplus\\wrappedQtHeaders\\QtCore",
         "-I",
-        "C:\\Users\\103so\\Documents\\build-Client-Desktop_Qt_6_3_1_MinGW_64_bit-Debug",
+        "C:\\Users\\103so\\Desktop\\Time Comtrollerr\\build-Client-Desktop_Qt_6_3_1_MinGW_64_bit-Debug",
         "-I",
-        "C:\\Users\\103so\\Documents\\Client",
+        "C:\\Users\\103so\\Desktop\\Time Comtrollerr\\Client",
         "-I",
-        "C:\\Users\\103so\\Documents\\build-Client-Desktop_Qt_6_3_1_MinGW_64_bit-Debug\\Client_autogen\\include",
+        "C:\\Users\\103so\\Desktop\\Time Comtrollerr\\build-Client-Desktop_Qt_6_3_1_MinGW_64_bit-Debug\\Client_autogen\\include",
         "-I",
         "D:\\Qt\\6.3.1\\mingw_64\\include\\QtCore",
         "-I",
@@ -797,10 +870,10 @@
         "-ferror-limit=1000",
         "-x",
         "c++-header",
-        "C:\\Users\\103so\\Documents\\Client\\operatingsystemfactory.h"
+        "C:\\Users\\103so\\Desktop\\Time Comtrollerr\\Client\\client.h"
     ],
-    "directory": "C:/Users/103so/Documents/build-Client-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qtc_clangd",
-    "file": "C:/Users/103so/Documents/Client/operatingsystemfactory.h"
+    "directory": "C:/Users/103so/Desktop/Time Comtrollerr/build-Client-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qtc_clangd",
+    "file": "C:/Users/103so/Desktop/Time Comtrollerr/Client/client.h"
 },
 {
     "arguments": [
@@ -836,11 +909,11 @@
         "-I",
         "D:\\Qt\\Tools\\QtCreator\\share\\qtcreator\\cplusplus\\wrappedQtHeaders\\QtCore",
         "-I",
-        "C:\\Users\\103so\\Documents\\build-Client-Desktop_Qt_6_3_1_MinGW_64_bit-Debug",
+        "C:\\Users\\103so\\Desktop\\Time Comtrollerr\\build-Client-Desktop_Qt_6_3_1_MinGW_64_bit-Debug",
         "-I",
-        "C:\\Users\\103so\\Documents\\Client",
+        "C:\\Users\\103so\\Desktop\\Time Comtrollerr\\Client",
         "-I",
-        "C:\\Users\\103so\\Documents\\build-Client-Desktop_Qt_6_3_1_MinGW_64_bit-Debug\\Client_autogen\\include",
+        "C:\\Users\\103so\\Desktop\\Time Comtrollerr\\build-Client-Desktop_Qt_6_3_1_MinGW_64_bit-Debug\\Client_autogen\\include",
         "-I",
         "D:\\Qt\\6.3.1\\mingw_64\\include\\QtCore",
         "-I",
@@ -870,10 +943,10 @@
         "-ferror-limit=1000",
         "-x",
         "c++-header",
-        "C:\\Users\\103so\\Documents\\Client\\windowssystem.h"
+        "C:\\Users\\103so\\Desktop\\Time Comtrollerr\\Client\\operatingsystemfactory.h"
     ],
-    "directory": "C:/Users/103so/Documents/build-Client-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qtc_clangd",
-    "file": "C:/Users/103so/Documents/Client/windowssystem.h"
+    "directory": "C:/Users/103so/Desktop/Time Comtrollerr/build-Client-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qtc_clangd",
+    "file": "C:/Users/103so/Desktop/Time Comtrollerr/Client/operatingsystemfactory.h"
 },
 {
     "arguments": [
@@ -909,11 +982,11 @@
         "-I",
         "D:\\Qt\\Tools\\QtCreator\\share\\qtcreator\\cplusplus\\wrappedQtHeaders\\QtCore",
         "-I",
-        "C:\\Users\\103so\\Documents\\build-Client-Desktop_Qt_6_3_1_MinGW_64_bit-Debug",
+        "C:\\Users\\103so\\Desktop\\Time Comtrollerr\\build-Client-Desktop_Qt_6_3_1_MinGW_64_bit-Debug",
         "-I",
-        "C:\\Users\\103so\\Documents\\Client",
+        "C:\\Users\\103so\\Desktop\\Time Comtrollerr\\Client",
         "-I",
-        "C:\\Users\\103so\\Documents\\build-Client-Desktop_Qt_6_3_1_MinGW_64_bit-Debug\\Client_autogen\\include",
+        "C:\\Users\\103so\\Desktop\\Time Comtrollerr\\build-Client-Desktop_Qt_6_3_1_MinGW_64_bit-Debug\\Client_autogen\\include",
         "-I",
         "D:\\Qt\\6.3.1\\mingw_64\\include\\QtCore",
         "-I",
@@ -943,10 +1016,10 @@
         "-ferror-limit=1000",
         "-x",
         "c++-header",
-        "C:\\Users\\103so\\Documents\\Client\\operatingsystemprogram.h"
+        "C:\\Users\\103so\\Desktop\\Time Comtrollerr\\Client\\windowssystem.h"
     ],
-    "directory": "C:/Users/103so/Documents/build-Client-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qtc_clangd",
-    "file": "C:/Users/103so/Documents/Client/operatingsystemprogram.h"
+    "directory": "C:/Users/103so/Desktop/Time Comtrollerr/build-Client-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qtc_clangd",
+    "file": "C:/Users/103so/Desktop/Time Comtrollerr/Client/windowssystem.h"
 },
 {
     "arguments": [
@@ -982,11 +1055,11 @@
         "-I",
         "D:\\Qt\\Tools\\QtCreator\\share\\qtcreator\\cplusplus\\wrappedQtHeaders\\QtCore",
         "-I",
-        "C:\\Users\\103so\\Documents\\build-Client-Desktop_Qt_6_3_1_MinGW_64_bit-Debug",
+        "C:\\Users\\103so\\Desktop\\Time Comtrollerr\\build-Client-Desktop_Qt_6_3_1_MinGW_64_bit-Debug",
         "-I",
-        "C:\\Users\\103so\\Documents\\Client",
+        "C:\\Users\\103so\\Desktop\\Time Comtrollerr\\Client",
         "-I",
-        "C:\\Users\\103so\\Documents\\build-Client-Desktop_Qt_6_3_1_MinGW_64_bit-Debug\\Client_autogen\\include",
+        "C:\\Users\\103so\\Desktop\\Time Comtrollerr\\build-Client-Desktop_Qt_6_3_1_MinGW_64_bit-Debug\\Client_autogen\\include",
         "-I",
         "D:\\Qt\\6.3.1\\mingw_64\\include\\QtCore",
         "-I",
@@ -1016,10 +1089,10 @@
         "-ferror-limit=1000",
         "-x",
         "c++-header",
-        "C:\\Users\\103so\\Documents\\Client\\windowssystemprogram.h"
+        "C:\\Users\\103so\\Desktop\\Time Comtrollerr\\Client\\operatingsystemprogram.h"
     ],
-    "directory": "C:/Users/103so/Documents/build-Client-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qtc_clangd",
-    "file": "C:/Users/103so/Documents/Client/windowssystemprogram.h"
+    "directory": "C:/Users/103so/Desktop/Time Comtrollerr/build-Client-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qtc_clangd",
+    "file": "C:/Users/103so/Desktop/Time Comtrollerr/Client/operatingsystemprogram.h"
 },
 {
     "arguments": [
@@ -1055,11 +1128,11 @@
         "-I",
         "D:\\Qt\\Tools\\QtCreator\\share\\qtcreator\\cplusplus\\wrappedQtHeaders\\QtCore",
         "-I",
-        "C:\\Users\\103so\\Documents\\build-Client-Desktop_Qt_6_3_1_MinGW_64_bit-Debug",
+        "C:\\Users\\103so\\Desktop\\Time Comtrollerr\\build-Client-Desktop_Qt_6_3_1_MinGW_64_bit-Debug",
         "-I",
-        "C:\\Users\\103so\\Documents\\Client",
+        "C:\\Users\\103so\\Desktop\\Time Comtrollerr\\Client",
         "-I",
-        "C:\\Users\\103so\\Documents\\build-Client-Desktop_Qt_6_3_1_MinGW_64_bit-Debug\\Client_autogen\\include",
+        "C:\\Users\\103so\\Desktop\\Time Comtrollerr\\build-Client-Desktop_Qt_6_3_1_MinGW_64_bit-Debug\\Client_autogen\\include",
         "-I",
         "D:\\Qt\\6.3.1\\mingw_64\\include\\QtCore",
         "-I",
@@ -1089,9 +1162,155 @@
         "-ferror-limit=1000",
         "-x",
         "c++-header",
-        "C:\\Users\\103so\\Documents\\Client\\activitytime.h"
+        "C:\\Users\\103so\\Desktop\\Time Comtrollerr\\Client\\windowssystemprogram.h"
     ],
-    "directory": "C:/Users/103so/Documents/build-Client-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qtc_clangd",
-    "file": "C:/Users/103so/Documents/Client/activitytime.h"
+    "directory": "C:/Users/103so/Desktop/Time Comtrollerr/build-Client-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qtc_clangd",
+    "file": "C:/Users/103so/Desktop/Time Comtrollerr/Client/windowssystemprogram.h"
+},
+{
+    "arguments": [
+        "clang",
+        "-Wno-documentation-unknown-command",
+        "-Wno-unknown-warning-option",
+        "-Wno-unknown-pragmas",
+        "-nostdinc",
+        "-nostdinc++",
+        "-DQT_QML_DEBUG",
+        "-g",
+        "-std=gnu++17",
+        "-fsyntax-only",
+        "-m64",
+        "--target=x86_64-w64-mingw32",
+        "-DMINGW_HAS_SECURE_API",
+        "-DQT_CORE_LIB",
+        "-DQT_GUI_LIB",
+        "-DQT_NEEDS_QMAIN",
+        "-DQT_NETWORK_LIB",
+        "-DQT_WIDGETS_LIB",
+        "-DUNICODE",
+        "-DWIN32",
+        "-DWIN64",
+        "-D_ENABLE_EXTENDED_ALIGNED_STORAGE",
+        "-D_UNICODE",
+        "-D_WIN64",
+        "-DQ_CREATOR_RUN",
+        "-I",
+        "D:\\Qt\\Tools\\QtCreator\\share\\qtcreator\\cplusplus\\wrappedMingwHeaders",
+        "-I",
+        "D:\\Qt\\Tools\\QtCreator\\share\\qtcreator\\cplusplus\\wrappedQtHeaders",
+        "-I",
+        "D:\\Qt\\Tools\\QtCreator\\share\\qtcreator\\cplusplus\\wrappedQtHeaders\\QtCore",
+        "-I",
+        "C:\\Users\\103so\\Desktop\\Time Comtrollerr\\build-Client-Desktop_Qt_6_3_1_MinGW_64_bit-Debug",
+        "-I",
+        "C:\\Users\\103so\\Desktop\\Time Comtrollerr\\Client",
+        "-I",
+        "C:\\Users\\103so\\Desktop\\Time Comtrollerr\\build-Client-Desktop_Qt_6_3_1_MinGW_64_bit-Debug\\Client_autogen\\include",
+        "-I",
+        "D:\\Qt\\6.3.1\\mingw_64\\include\\QtCore",
+        "-I",
+        "D:\\Qt\\6.3.1\\mingw_64\\include",
+        "-I",
+        "D:\\Qt\\6.3.1\\mingw_64\\mkspecs\\win32-g++",
+        "-I",
+        "D:\\Qt\\6.3.1\\mingw_64\\include\\QtWidgets",
+        "-I",
+        "D:\\Qt\\6.3.1\\mingw_64\\include\\QtGui",
+        "-I",
+        "D:\\Qt\\6.3.1\\mingw_64\\include\\QtNetwork",
+        "-isystem",
+        "D:\\Qt\\Tools\\mingw1120_64\\lib\\gcc\\x86_64-w64-mingw32\\11.2.0\\include\\c++",
+        "-isystem",
+        "D:\\Qt\\Tools\\mingw1120_64\\lib\\gcc\\x86_64-w64-mingw32\\11.2.0\\include\\c++\\x86_64-w64-mingw32",
+        "-isystem",
+        "D:\\Qt\\Tools\\mingw1120_64\\lib\\gcc\\x86_64-w64-mingw32\\11.2.0\\include\\c++\\backward",
+        "-isystem",
+        "D:\\Qt\\Tools\\QtCreator\\bin\\clang\\lib\\clang\\14.0.3\\include",
+        "-isystem",
+        "D:\\Qt\\Tools\\mingw1120_64\\x86_64-w64-mingw32\\include",
+        "-fmessage-length=0",
+        "-fdiagnostics-show-note-include-stack",
+        "-fretain-comments-from-system-headers",
+        "-fmacro-backtrace-limit=0",
+        "-ferror-limit=1000",
+        "-x",
+        "c++-header",
+        "C:\\Users\\103so\\Desktop\\Time Comtrollerr\\Client\\activitytime.h"
+    ],
+    "directory": "C:/Users/103so/Desktop/Time Comtrollerr/build-Client-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qtc_clangd",
+    "file": "C:/Users/103so/Desktop/Time Comtrollerr/Client/activitytime.h"
+},
+{
+    "arguments": [
+        "clang",
+        "-Wno-documentation-unknown-command",
+        "-Wno-unknown-warning-option",
+        "-Wno-unknown-pragmas",
+        "-nostdinc",
+        "-nostdinc++",
+        "-DQT_QML_DEBUG",
+        "-g",
+        "-std=gnu++17",
+        "-fsyntax-only",
+        "-m64",
+        "--target=x86_64-w64-mingw32",
+        "-DMINGW_HAS_SECURE_API",
+        "-DQT_CORE_LIB",
+        "-DQT_GUI_LIB",
+        "-DQT_NEEDS_QMAIN",
+        "-DQT_NETWORK_LIB",
+        "-DQT_WIDGETS_LIB",
+        "-DUNICODE",
+        "-DWIN32",
+        "-DWIN64",
+        "-D_ENABLE_EXTENDED_ALIGNED_STORAGE",
+        "-D_UNICODE",
+        "-D_WIN64",
+        "-DQ_CREATOR_RUN",
+        "-I",
+        "D:\\Qt\\Tools\\QtCreator\\share\\qtcreator\\cplusplus\\wrappedMingwHeaders",
+        "-I",
+        "D:\\Qt\\Tools\\QtCreator\\share\\qtcreator\\cplusplus\\wrappedQtHeaders",
+        "-I",
+        "D:\\Qt\\Tools\\QtCreator\\share\\qtcreator\\cplusplus\\wrappedQtHeaders\\QtCore",
+        "-I",
+        "C:\\Users\\103so\\Desktop\\Time Comtrollerr\\build-Client-Desktop_Qt_6_3_1_MinGW_64_bit-Debug",
+        "-I",
+        "C:\\Users\\103so\\Desktop\\Time Comtrollerr\\Client",
+        "-I",
+        "C:\\Users\\103so\\Desktop\\Time Comtrollerr\\build-Client-Desktop_Qt_6_3_1_MinGW_64_bit-Debug\\Client_autogen\\include",
+        "-I",
+        "D:\\Qt\\6.3.1\\mingw_64\\include\\QtCore",
+        "-I",
+        "D:\\Qt\\6.3.1\\mingw_64\\include",
+        "-I",
+        "D:\\Qt\\6.3.1\\mingw_64\\mkspecs\\win32-g++",
+        "-I",
+        "D:\\Qt\\6.3.1\\mingw_64\\include\\QtWidgets",
+        "-I",
+        "D:\\Qt\\6.3.1\\mingw_64\\include\\QtGui",
+        "-I",
+        "D:\\Qt\\6.3.1\\mingw_64\\include\\QtNetwork",
+        "-isystem",
+        "D:\\Qt\\Tools\\mingw1120_64\\lib\\gcc\\x86_64-w64-mingw32\\11.2.0\\include\\c++",
+        "-isystem",
+        "D:\\Qt\\Tools\\mingw1120_64\\lib\\gcc\\x86_64-w64-mingw32\\11.2.0\\include\\c++\\x86_64-w64-mingw32",
+        "-isystem",
+        "D:\\Qt\\Tools\\mingw1120_64\\lib\\gcc\\x86_64-w64-mingw32\\11.2.0\\include\\c++\\backward",
+        "-isystem",
+        "D:\\Qt\\Tools\\QtCreator\\bin\\clang\\lib\\clang\\14.0.3\\include",
+        "-isystem",
+        "D:\\Qt\\Tools\\mingw1120_64\\x86_64-w64-mingw32\\include",
+        "-fmessage-length=0",
+        "-fdiagnostics-show-note-include-stack",
+        "-fretain-comments-from-system-headers",
+        "-fmacro-backtrace-limit=0",
+        "-ferror-limit=1000",
+        "-x",
+        "c++-header",
+        "C:\\Users\\103so\\Desktop\\Time Comtrollerr\\Client\\app.h"
+    ],
+    "directory": "C:/Users/103so/Desktop/Time Comtrollerr/build-Client-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qtc_clangd",
+    "file": "C:/Users/103so/Desktop/Time Comtrollerr/Client/app.h"
 }
 ]

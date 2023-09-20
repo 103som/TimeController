@@ -6,13 +6,16 @@
 #include <QString>
 #include <QVector>
 #include <cstdlib>
+#include <QJsonDocument>
+#include <QJsonObject>
+#include <QJsonArray>
 
-class client : QObject {
+class client : public QObject {
     Q_OBJECT
 public:
     explicit client(QObject *parent = nullptr);
     void connectToServer();
-    void sendRequest(const QString& request);
+    void sendRequest(const QJsonObject& request);
 
 private slots:
     void connected();

@@ -1,9 +1,52 @@
 # ninja log v5
-23	1051	7054888578080997	TimeController_autogen/timestamp	664ce149dd0ff0ef
-23	1051	7054888578080997	C:/Users/103so/Desktop/Time Comtrollerr/build-TimeController-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/TimeController_autogen/timestamp	664ce149dd0ff0ef
-23	1051	7054888578080997	C:/Users/103so/Desktop/Time Comtrollerr/build-TimeController-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/TimeController_autogen/mocs_compilation.cpp	664ce149dd0ff0ef
-1057	6195	7054888631714906	CMakeFiles/TimeController.dir/TimeController_autogen/mocs_compilation.cpp.obj	77b3684026fb759b
-23	1051	7054888578080997	TimeController_autogen/mocs_compilation.cpp	664ce149dd0ff0ef
-1052	5942	7054888628670388	CMakeFiles/TimeController.dir/main.cpp.obj	46d616b114ded567
-1067	6094	7054888630700313	CMakeFiles/TimeController.dir/server.cpp.obj	511f802991fb445f
-6196	6480	7054888634501324	TimeController.exe	f5f5b4e9ad1ce217
+12	2323	7060746552908229	TimeController_autogen/timestamp	664ce149dd0ff0ef
+12	2323	7060746552908229	C:/Users/103so/Desktop/Time Comtrollerr/build-TimeController-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/TimeController_autogen/timestamp	664ce149dd0ff0ef
+12	2323	7060746552908229	C:/Users/103so/Desktop/Time Comtrollerr/build-TimeController-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/TimeController_autogen/mocs_compilation.cpp	664ce149dd0ff0ef
+1266	6054	7060743204148981	CMakeFiles/TimeController.dir/TimeController_autogen/mocs_compilation.cpp.obj	77b3684026fb759b
+12	2323	7060746552908229	TimeController_autogen/mocs_compilation.cpp	664ce149dd0ff0ef
+2330	7075	7060746601132202	CMakeFiles/TimeController.dir/main.cpp.obj	46d616b114ded567
+1278	5968	7060743203296744	CMakeFiles/TimeController.dir/server.cpp.obj	511f802991fb445f
+7077	7541	7060746605711817	TimeController.exe	eb58e1812cd90884
+1524	9125	7060741193303676	CMakeFiles/TimeController.dir/clientdb.cpp.obj	bf543ca7a9eb7881
+13	764	7060761557113089	TimeController_autogen/timestamp	664ce149dd0ff0ef
+13	764	7060761557113089	TimeController_autogen/mocs_compilation.cpp	664ce149dd0ff0ef
+13	764	7060761557113089	C:/Users/103so/Desktop/Time Comtrollerr/build-TimeController-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/TimeController_autogen/timestamp	664ce149dd0ff0ef
+13	764	7060761557113089	C:/Users/103so/Desktop/Time Comtrollerr/build-TimeController-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/TimeController_autogen/mocs_compilation.cpp	664ce149dd0ff0ef
+773	6902	7060761619256615	CMakeFiles/TimeController.dir/main.cpp.obj	46d616b114ded567
+6903	7600	7060761625701054	TimeController.exe	eb58e1812cd90884
+72	1173	7061103909932255	TimeController_autogen/timestamp	664ce149dd0ff0ef
+72	1173	7061103909932255	TimeController_autogen/mocs_compilation.cpp	664ce149dd0ff0ef
+72	1173	7061103909932255	C:/Users/103so/Desktop/Time Comtrollerr/build-TimeController-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/TimeController_autogen/timestamp	664ce149dd0ff0ef
+72	1173	7061103909932255	C:/Users/103so/Desktop/Time Comtrollerr/build-TimeController-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/TimeController_autogen/mocs_compilation.cpp	664ce149dd0ff0ef
+1180	6975	7061103968135139	CMakeFiles/TimeController.dir/server.cpp.obj	511f802991fb445f
+6976	7647	7061103974813401	TimeController.exe	eb58e1812cd90884
+10	1326	7061111139774436	TimeController_autogen/timestamp	664ce149dd0ff0ef
+10	1326	7061111139774436	TimeController_autogen/mocs_compilation.cpp	664ce149dd0ff0ef
+10	1326	7061111139774436	C:/Users/103so/Desktop/Time Comtrollerr/build-TimeController-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/TimeController_autogen/timestamp	664ce149dd0ff0ef
+10	1326	7061111139774436	C:/Users/103so/Desktop/Time Comtrollerr/build-TimeController-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/TimeController_autogen/mocs_compilation.cpp	664ce149dd0ff0ef
+1333	6847	7061111198108819	CMakeFiles/TimeController.dir/main.cpp.obj	46d616b114ded567
+1327	7086	7061111200411024	CMakeFiles/TimeController.dir/TimeController_autogen/mocs_compilation.cpp.obj	77b3684026fb759b
+25	420	7061111405570213	TimeController_autogen/timestamp	664ce149dd0ff0ef
+25	420	7061111405570213	TimeController_autogen/mocs_compilation.cpp	664ce149dd0ff0ef
+25	420	7061111405570213	C:/Users/103so/Desktop/Time Comtrollerr/build-TimeController-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/TimeController_autogen/timestamp	664ce149dd0ff0ef
+25	420	7061111405570213	C:/Users/103so/Desktop/Time Comtrollerr/build-TimeController-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/TimeController_autogen/mocs_compilation.cpp	664ce149dd0ff0ef
+426	4484	7061111446313183	CMakeFiles/TimeController.dir/server.cpp.obj	511f802991fb445f
+4485	4886	7061111450170683	TimeController.exe	eb58e1812cd90884
+9	321	7061112698731659	TimeController_autogen/timestamp	664ce149dd0ff0ef
+9	321	7061112698731659	TimeController_autogen/mocs_compilation.cpp	664ce149dd0ff0ef
+9	321	7061112698731659	C:/Users/103so/Desktop/Time Comtrollerr/build-TimeController-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/TimeController_autogen/timestamp	664ce149dd0ff0ef
+9	321	7061112698731659	C:/Users/103so/Desktop/Time Comtrollerr/build-TimeController-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/TimeController_autogen/mocs_compilation.cpp	664ce149dd0ff0ef
+327	3940	7061112734832034	CMakeFiles/TimeController.dir/server.cpp.obj	511f802991fb445f
+3941	4379	7061112739163594	TimeController.exe	eb58e1812cd90884
+25	405	7061114452013726	TimeController_autogen/timestamp	664ce149dd0ff0ef
+25	405	7061114452013726	TimeController_autogen/mocs_compilation.cpp	664ce149dd0ff0ef
+25	405	7061114452013726	C:/Users/103so/Desktop/Time Comtrollerr/build-TimeController-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/TimeController_autogen/timestamp	664ce149dd0ff0ef
+25	405	7061114452013726	C:/Users/103so/Desktop/Time Comtrollerr/build-TimeController-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/TimeController_autogen/mocs_compilation.cpp	664ce149dd0ff0ef
+411	4970	7061114497628322	CMakeFiles/TimeController.dir/server.cpp.obj	511f802991fb445f
+4971	5329	7061114501173236	TimeController.exe	eb58e1812cd90884
+96	3803	7061116560973508	TimeController_autogen/timestamp	664ce149dd0ff0ef
+96	3803	7061116560973508	TimeController_autogen/mocs_compilation.cpp	664ce149dd0ff0ef
+96	3803	7061116560973508	C:/Users/103so/Desktop/Time Comtrollerr/build-TimeController-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/TimeController_autogen/timestamp	664ce149dd0ff0ef
+96	3803	7061116560973508	C:/Users/103so/Desktop/Time Comtrollerr/build-TimeController-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/TimeController_autogen/mocs_compilation.cpp	664ce149dd0ff0ef
+3809	10541	7061116630638916	CMakeFiles/TimeController.dir/server.cpp.obj	511f802991fb445f
+10542	11038	7061116635445654	TimeController.exe	eb58e1812cd90884

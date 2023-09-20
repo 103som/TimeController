@@ -22,28 +22,31 @@ QT_BEGIN_MOC_NAMESPACE
 QT_WARNING_PUSH
 QT_WARNING_DISABLE_DEPRECATED
 struct qt_meta_stringdata_server_t {
-    const uint offsetsAndSize[20];
-    char stringdata0[117];
+    const uint offsetsAndSize[24];
+    char stringdata0[145];
 };
 #define QT_MOC_LITERAL(ofs, len) \
     uint(offsetof(qt_meta_stringdata_server_t, stringdata0) + ofs), len 
 static const qt_meta_stringdata_server_t qt_meta_stringdata_server = {
     {
 QT_MOC_LITERAL(0, 6), // "server"
-QT_MOC_LITERAL(7, 15), // "clientConnected"
-QT_MOC_LITERAL(23, 0), // ""
-QT_MOC_LITERAL(24, 9), // "ipAddress"
-QT_MOC_LITERAL(34, 4), // "port"
-QT_MOC_LITERAL(39, 18), // "clientDisconnected"
-QT_MOC_LITERAL(58, 12), // "dataReceived"
-QT_MOC_LITERAL(71, 4), // "data"
-QT_MOC_LITERAL(76, 15), // "handleReadyRead"
-QT_MOC_LITERAL(92, 24) // "handleClientDisconnected"
+QT_MOC_LITERAL(7, 18), // "clientDisconnected"
+QT_MOC_LITERAL(26, 0), // ""
+QT_MOC_LITERAL(27, 9), // "ipAddress"
+QT_MOC_LITERAL(37, 4), // "port"
+QT_MOC_LITERAL(42, 12), // "dataReceived"
+QT_MOC_LITERAL(55, 4), // "data"
+QT_MOC_LITERAL(60, 15), // "handleReadyRead"
+QT_MOC_LITERAL(76, 24), // "handleClientDisconnected"
+QT_MOC_LITERAL(101, 18), // "incomingConnection"
+QT_MOC_LITERAL(120, 7), // "qintptr"
+QT_MOC_LITERAL(128, 16) // "socketDescriptor"
 
     },
-    "server\0clientConnected\0\0ipAddress\0"
-    "port\0clientDisconnected\0dataReceived\0"
-    "data\0handleReadyRead\0handleClientDisconnected"
+    "server\0clientDisconnected\0\0ipAddress\0"
+    "port\0dataReceived\0data\0handleReadyRead\0"
+    "handleClientDisconnected\0incomingConnection\0"
+    "qintptr\0socketDescriptor"
 };
 #undef QT_MOC_LITERAL
 
@@ -58,25 +61,25 @@ static const uint qt_meta_data_server[] = {
        0,    0, // enums/sets
        0,    0, // constructors
        0,       // flags
-       3,       // signalCount
+       2,       // signalCount
 
  // signals: name, argc, parameters, tag, flags, initial metatype offsets
        1,    2,   44,    2, 0x06,    1 /* Public */,
-       5,    2,   49,    2, 0x06,    4 /* Public */,
-       6,    3,   54,    2, 0x06,    7 /* Public */,
+       5,    3,   49,    2, 0x06,    4 /* Public */,
 
  // slots: name, argc, parameters, tag, flags, initial metatype offsets
-       8,    0,   61,    2, 0x08,   11 /* Private */,
-       9,    0,   62,    2, 0x08,   12 /* Private */,
+       7,    0,   56,    2, 0x08,    8 /* Private */,
+       8,    0,   57,    2, 0x08,    9 /* Private */,
+       9,    1,   58,    2, 0x08,   10 /* Private */,
 
  // signals: parameters
     QMetaType::Void, QMetaType::QString, QMetaType::UShort,    3,    4,
-    QMetaType::Void, QMetaType::QString, QMetaType::UShort,    3,    4,
-    QMetaType::Void, QMetaType::QString, QMetaType::UShort, QMetaType::QByteArray,    3,    4,    7,
+    QMetaType::Void, QMetaType::QString, QMetaType::UShort, QMetaType::QByteArray,    3,    4,    6,
 
  // slots: parameters
     QMetaType::Void,
     QMetaType::Void,
+    QMetaType::Void, 0x80000000 | 10,   11,
 
        0        // eod
 };
@@ -87,33 +90,26 @@ void server::qt_static_metacall(QObject *_o, QMetaObject::Call _c, int _id, void
         auto *_t = static_cast<server *>(_o);
         (void)_t;
         switch (_id) {
-        case 0: _t->clientConnected((*reinterpret_cast< std::add_pointer_t<QString>>(_a[1])),(*reinterpret_cast< std::add_pointer_t<quint16>>(_a[2]))); break;
-        case 1: _t->clientDisconnected((*reinterpret_cast< std::add_pointer_t<QString>>(_a[1])),(*reinterpret_cast< std::add_pointer_t<quint16>>(_a[2]))); break;
-        case 2: _t->dataReceived((*reinterpret_cast< std::add_pointer_t<QString>>(_a[1])),(*reinterpret_cast< std::add_pointer_t<quint16>>(_a[2])),(*reinterpret_cast< std::add_pointer_t<QByteArray>>(_a[3]))); break;
-        case 3: _t->handleReadyRead(); break;
-        case 4: _t->handleClientDisconnected(); break;
+        case 0: _t->clientDisconnected((*reinterpret_cast< std::add_pointer_t<QString>>(_a[1])),(*reinterpret_cast< std::add_pointer_t<quint16>>(_a[2]))); break;
+        case 1: _t->dataReceived((*reinterpret_cast< std::add_pointer_t<QString>>(_a[1])),(*reinterpret_cast< std::add_pointer_t<quint16>>(_a[2])),(*reinterpret_cast< std::add_pointer_t<QByteArray>>(_a[3]))); break;
+        case 2: _t->handleReadyRead(); break;
+        case 3: _t->handleClientDisconnected(); break;
+        case 4: _t->incomingConnection((*reinterpret_cast< std::add_pointer_t<qintptr>>(_a[1]))); break;
         default: ;
         }
     } else if (_c == QMetaObject::IndexOfMethod) {
         int *result = reinterpret_cast<int *>(_a[0]);
         {
             using _t = void (server::*)(const QString & , quint16 );
-            if (*reinterpret_cast<_t *>(_a[1]) == static_cast<_t>(&server::clientConnected)) {
-                *result = 0;
-                return;
-            }
-        }
-        {
-            using _t = void (server::*)(const QString & , quint16 );
             if (*reinterpret_cast<_t *>(_a[1]) == static_cast<_t>(&server::clientDisconnected)) {
-                *result = 1;
+                *result = 0;
                 return;
             }
         }
         {
             using _t = void (server::*)(const QString & , quint16 , const QByteArray & );
             if (*reinterpret_cast<_t *>(_a[1]) == static_cast<_t>(&server::dataReceived)) {
-                *result = 2;
+                *result = 1;
                 return;
             }
         }
@@ -127,8 +123,8 @@ const QMetaObject server::staticMetaObject = { {
     qt_static_metacall,
     nullptr,
 qt_incomplete_metaTypeArray<qt_meta_stringdata_server_t
-, QtPrivate::TypeAndForceComplete<server, std::true_type>, QtPrivate::TypeAndForceComplete<void, std::false_type>, QtPrivate::TypeAndForceComplete<const QString &, std::false_type>, QtPrivate::TypeAndForceComplete<quint16, std::false_type>, QtPrivate::TypeAndForceComplete<void, std::false_type>, QtPrivate::TypeAndForceComplete<const QString &, std::false_type>, QtPrivate::TypeAndForceComplete<quint16, std::false_type>, QtPrivate::TypeAndForceComplete<void, std::false_type>, QtPrivate::TypeAndForceComplete<const QString &, std::false_type>, QtPrivate::TypeAndForceComplete<quint16, std::false_type>, QtPrivate::TypeAndForceComplete<const QByteArray &, std::false_type>
-, QtPrivate::TypeAndForceComplete<void, std::false_type>, QtPrivate::TypeAndForceComplete<void, std::false_type>
+, QtPrivate::TypeAndForceComplete<server, std::true_type>, QtPrivate::TypeAndForceComplete<void, std::false_type>, QtPrivate::TypeAndForceComplete<const QString &, std::false_type>, QtPrivate::TypeAndForceComplete<quint16, std::false_type>, QtPrivate::TypeAndForceComplete<void, std::false_type>, QtPrivate::TypeAndForceComplete<const QString &, std::false_type>, QtPrivate::TypeAndForceComplete<quint16, std::false_type>, QtPrivate::TypeAndForceComplete<const QByteArray &, std::false_type>
+, QtPrivate::TypeAndForceComplete<void, std::false_type>, QtPrivate::TypeAndForceComplete<void, std::false_type>, QtPrivate::TypeAndForceComplete<void, std::false_type>, QtPrivate::TypeAndForceComplete<qintptr, std::false_type>
 
 
 >,
@@ -167,24 +163,17 @@ int server::qt_metacall(QMetaObject::Call _c, int _id, void **_a)
 }
 
 // SIGNAL 0
-void server::clientConnected(const QString & _t1, quint16 _t2)
+void server::clientDisconnected(const QString & _t1, quint16 _t2)
 {
     void *_a[] = { nullptr, const_cast<void*>(reinterpret_cast<const void*>(std::addressof(_t1))), const_cast<void*>(reinterpret_cast<const void*>(std::addressof(_t2))) };
     QMetaObject::activate(this, &staticMetaObject, 0, _a);
 }
 
 // SIGNAL 1
-void server::clientDisconnected(const QString & _t1, quint16 _t2)
-{
-    void *_a[] = { nullptr, const_cast<void*>(reinterpret_cast<const void*>(std::addressof(_t1))), const_cast<void*>(reinterpret_cast<const void*>(std::addressof(_t2))) };
-    QMetaObject::activate(this, &staticMetaObject, 1, _a);
-}
-
-// SIGNAL 2
 void server::dataReceived(const QString & _t1, quint16 _t2, const QByteArray & _t3)
 {
     void *_a[] = { nullptr, const_cast<void*>(reinterpret_cast<const void*>(std::addressof(_t1))), const_cast<void*>(reinterpret_cast<const void*>(std::addressof(_t2))), const_cast<void*>(reinterpret_cast<const void*>(std::addressof(_t3))) };
-    QMetaObject::activate(this, &staticMetaObject, 2, _a);
+    QMetaObject::activate(this, &staticMetaObject, 1, _a);
 }
 QT_WARNING_POP
 QT_END_MOC_NAMESPACE
